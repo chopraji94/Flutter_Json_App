@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Pranav Chopra",
+        "age": "23",
+        "gender": "male",
+        "hair_color": "black"
+    },
+    {
+        "name": "Parnav Chopra",
+        "age": "24",
+        "gender": "male",
+        "hair_color": "brown"
+    },
+    {
+        "name": "Pranab Chopra",
+        "age": "25",
+        "gender": "male",
+        "hair_color": "red"
+    },
+    {
+        "name": "Aranav Chopra",
+        "age": "26",
+        "gender": "male",
+        "hair_color": "blue"
+    }
+
+]
